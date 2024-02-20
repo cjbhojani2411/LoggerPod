@@ -1,0 +1,16 @@
+PODS:
+  - LoggerPod (0.1.0)
+
+DEPENDENCIES:
+  - LoggerPod (from `../`)
+
+EXTERNAL SOURCES:
+  LoggerPod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LoggerPod: 7d0c35128652f76c3cb6056e422e75d062c255b5
+
+PODFILE CHECKSUM: 3391e094af2036740204b5d2fe1248b5c6b9fd78
+
+COCOAPODS: 1.13.0

@@ -1,0 +1,6 @@
+framework module LoggerPod {
+  umbrella header "LoggerPod-umbrella.h"
+
+  export *
+  module * { export * }
+}
