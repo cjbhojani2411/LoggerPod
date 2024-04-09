@@ -6,6 +6,7 @@
 //
 
 import Foundation
+import linphone
 
 public class Logger {
     public init() {}
