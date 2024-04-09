@@ -36,5 +36,7 @@ Pod::Spec.new do |s|
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
-   s.dependency 'linphone-sdk', '~>5.3.4'
+  s.vendored_frameworks = Dir['LoggerPod/Classes/XCFrameworks/*.framework']
+
+
 end
